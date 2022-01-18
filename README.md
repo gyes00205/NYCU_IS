@@ -14,8 +14,7 @@ Since the agent is moving, the position of the sensor is changing by the time, s
 3. Camera Pose Estimation and Visualization:
 Visualizing the trajectory and show the difference between the trajectory we computed by ICP algorithm and ground truth trajectory.
 
-<img src="https://i.imgur.com/4zFLKNR.png" width="300px">
-<img src="https://i.imgur.com/964PdRM.png" width="300px">
+<img src="https://i.imgur.com/4zFLKNR.png" width="300px"><img src="https://i.imgur.com/964PdRM.png" width="300px">
 
 ## 3D Semantic Segmentation
 
