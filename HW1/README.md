@@ -40,6 +40,8 @@ python reconstruct.py \
 
 ## Result
 1. first_floor_open3d v.s. first_floor_my
+
 <img src="https://i.imgur.com/4zFLKNR.png" width="300px"><img src="https://i.imgur.com/XfTe1gP.png" width="250px">
 2. second_floor_open3d v.s. second_floor_my
+
 <img src="https://i.imgur.com/964PdRM.png" width="300px"><img src="https://i.imgur.com/jvM7Oo2.png" width="300px">
